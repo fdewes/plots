@@ -1,0 +1,10 @@
+Jan 07 07:45:08 Download: 628.02 Mbit/s
+Jan 07 07:45:19 Upload: 32.90 Mbit/s
+Jan 07 08:15:08 Download: 596.43 Mbit/s
+Jan 07 08:15:18 Upload: 51.85 Mbit/s
+Jan 07 08:45:07 Download: 654.49 Mbit/s
+Jan 07 08:45:18 Upload: 51.66 Mbit/s
+Jan 07 09:15:07 Download: 696.77 Mbit/s
+Jan 07 09:15:18 Upload: 53.98 Mbit/s
+Jan 07 09:45:09 Download: 463.84 Mbit/s
+Jan 07 09:45:20 Upload: 52.79 Mbit/s
